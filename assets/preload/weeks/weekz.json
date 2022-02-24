@@ -1,0 +1,58 @@
+{
+	"storyName": "Extras",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "mind",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"sunshine",
+			"soul",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"faker",
+			"glitch",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"not-so-triple-trouble",
+			"soul",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"you-cant-run",
+			"glitchbfpixel",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
