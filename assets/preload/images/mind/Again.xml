@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Again.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Again0000" x="0" y="0" width="1687" height="922"/>
+	<SubTexture name="Again0001" x="0" y="0" width="1687" height="922"/>
+	<SubTexture name="Again0002" x="1687" y="0" width="1687" height="922"/>
+	<SubTexture name="Again0003" x="1687" y="0" width="1687" height="922"/>
+	<SubTexture name="Again0004" x="0" y="922" width="1687" height="922"/>
+	<SubTexture name="Again0005" x="0" y="922" width="1687" height="922"/>
+	<SubTexture name="Again0006" x="1687" y="922" width="1687" height="922"/>
+	<SubTexture name="Again0007" x="1687" y="922" width="1687" height="922"/>
+	<SubTexture name="Again0008" x="0" y="1844" width="1687" height="922"/>
+	<SubTexture name="Again0009" x="0" y="1844" width="1687" height="922"/>
+	<SubTexture name="Again0010" x="1687" y="1844" width="1687" height="922"/>
+	<SubTexture name="Again0011" x="1687" y="1844" width="1687" height="922"/>
+	<SubTexture name="Again0012" x="0" y="2766" width="1687" height="922"/>
+	<SubTexture name="Again0013" x="0" y="2766" width="1687" height="922"/>
+	<SubTexture name="Again0014" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="Again0015" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="Again0016" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="Again0017" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="Again0018" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="Again0019" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="Again0020" x="0" y="2766" width="1687" height="922"/>
+	<SubTexture name="Again0021" x="0" y="2766" width="1687" height="922"/>
+	<SubTexture name="Again0022" x="1687" y="1844" width="1687" height="922"/>
+	<SubTexture name="Again0023" x="1687" y="1844" width="1687" height="922"/>
+	<SubTexture name="Again0024" x="0" y="1844" width="1687" height="922"/>
+	<SubTexture name="Again0025" x="0" y="1844" width="1687" height="922"/>
+	<SubTexture name="Again0026" x="1687" y="922" width="1687" height="922"/>
+	<SubTexture name="Again0027" x="1687" y="922" width="1687" height="922"/>
+	<SubTexture name="Again0028" x="0" y="922" width="1687" height="922"/>
+	<SubTexture name="Again0029" x="0" y="922" width="1687" height="922"/>
+	<SubTexture name="Again0030" x="1687" y="0" width="1687" height="922"/>
+	<SubTexture name="Again0031" x="1687" y="0" width="1687" height="922"/>
+	<SubTexture name="Again0032" x="0" y="0" width="1687" height="922"/>
+	<SubTexture name="Again0033" x="0" y="0" width="1687" height="922"/>
+</TextureAtlas>
