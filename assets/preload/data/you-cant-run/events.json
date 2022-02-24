@@ -1,0 +1,164 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "mind",
+		"player1": "bf-default",
+		"player2": "soul",
+		"player3": null,
+		"events": [
+			[
+				56571.4285714286,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"pixelsoul"
+					],
+					[
+						"Change Character",
+						"gf",
+						"altbg2"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pixel"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-default"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"soul"
+					],
+					[
+						"Change Character",
+						"gf",
+						"tv"
+					]
+				]
+			],
+			[
+				125142.857142857,
+				[
+					[
+						"bgremove",
+						"backgroundlol",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"LinearSpin",
+						"0.1",
+						"360"
+					]
+				]
+			],
+			[
+				126383.035714286,
+				[
+					[
+						"LinearSpin",
+						"0.1",
+						"360"
+					]
+				]
+			],
+			[
+				129428.571428571,
+				[
+					[
+						"LinearSpin",
+						"0.1",
+						"360"
+					]
+				]
+			],
+			[
+				129806.25,
+				[
+					[
+						"LinearSpin",
+						"0.1",
+						"360"
+					]
+				]
+			],
+			[
+				139714.285714286,
+				[
+					[
+						"LinearSpin",
+						"0.1",
+						"360"
+					]
+				]
+			],
+			[
+				140102.678571428,
+				[
+					[
+						"LinearSpin",
+						"0.1",
+						"360"
+					]
+				]
+			],
+			[
+				143142.857142857,
+				[
+					[
+						"LinearSpin",
+						"0.1",
+						"360"
+					]
+				]
+			],
+			[
+				143531.25,
+				[
+					[
+						"LinearSpin",
+						"0.1",
+						"360"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "tv",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "you-cant-run"
+	}
+}
