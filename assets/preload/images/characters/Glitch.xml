@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Glitch.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Evil Boyfriend Idle0000" x="0" y="0" width="402" height="515"/>
+	<SubTexture name="Evil Boyfriend Idle0001" x="402" y="0" width="402" height="515"/>
+	<SubTexture name="Evil Boyfriend Idle0002" x="402" y="0" width="402" height="515"/>
+	<SubTexture name="Evil Boyfriend Idle0003" x="804" y="0" width="402" height="515"/>
+	<SubTexture name="Evil Boyfriend Idle0004" x="804" y="0" width="402" height="515"/>
+	<SubTexture name="Evil Boyfriend Idle0005" x="1206" y="0" width="402" height="515"/>
+	<SubTexture name="Evil Boyfriend Idle0006" x="1206" y="0" width="402" height="515"/>
+	<SubTexture name="Evil Boyfriend Idle0007" x="1608" y="0" width="402" height="515"/>
+	<SubTexture name="Evil Boyfriend Idle0008" x="1608" y="0" width="402" height="515"/>
+	<SubTexture name="Evil Boyfriend Idle0009" x="0" y="515" width="402" height="515"/>
+	<SubTexture name="Evil Boyfriend Idle0010" x="0" y="515" width="402" height="515"/>
+	<SubTexture name="Evil Boyfriend Idle0011" x="402" y="515" width="402" height="515"/>
+	<SubTexture name="Evil Boyfriend Idle0012" x="402" y="515" width="402" height="515"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0000" x="804" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0001" x="804" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0002" x="804" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0003" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0004" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0005" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0006" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0007" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0008" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0009" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0010" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0011" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0012" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0013" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0014" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0015" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0016" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0017" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0018" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0019" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0020" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0021" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0022" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0023" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0024" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0025" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0026" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0027" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0028" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING DOWN Evil BoyFriend0029" x="1177" y="515" width="373" height="499"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0000" x="1550" y="515" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0001" x="1550" y="515" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0002" x="1550" y="515" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0003" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0004" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0005" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0006" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0007" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0008" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0009" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0010" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0011" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0012" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0013" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0014" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0015" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0016" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0017" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0018" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0019" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0020" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0021" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0022" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0023" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0024" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0025" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0026" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0027" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0028" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING LEFT Evil BoyFriend0029" x="0" y="1030" width="364" height="488"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0000" x="364" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0001" x="364" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0002" x="364" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0003" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0004" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0005" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0006" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0007" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0008" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0009" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0010" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0011" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0012" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0013" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0014" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0015" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0016" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0017" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0018" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0019" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0020" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0021" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0022" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0023" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0024" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0025" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0026" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0027" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0028" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING RIGHT Evil Boyfriend0029" x="721" y="1030" width="357" height="477"/>
+	<SubTexture name="SING UP Evil BoyFriend0000" x="1078" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0001" x="1078" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0002" x="1078" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0003" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0004" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0005" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0006" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0007" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0008" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0009" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0010" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0011" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0012" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0013" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0014" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0015" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0016" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0017" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0018" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0019" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0020" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0021" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0022" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0023" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0024" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0025" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0026" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0027" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0028" x="1440" y="1030" width="362" height="537"/>
+	<SubTexture name="SING UP Evil BoyFriend0029" x="1440" y="1030" width="362" height="537"/>
+</TextureAtlas>
