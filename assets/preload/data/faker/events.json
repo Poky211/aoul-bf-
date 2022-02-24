@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "mind",
+		"player1": "bf-default",
+		"player2": "glitch",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "tv",
+		"bpm": 105,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "faker"
+	}
+}
