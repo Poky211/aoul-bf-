@@ -1,0 +1,136 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "mind-tripletrouble",
+		"player1": "bf-default",
+		"player2": "soulbf",
+		"player3": null,
+		"events": [
+			[
+				106849.315068493,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"bgremove",
+						"backgroundlol",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"scared-bf"
+					],
+					[
+						"Change Character",
+						"gf",
+						"tv-sing"
+					]
+				]
+			],
+			[
+				133150.684931507,
+				[
+					[
+						"Change Character",
+						"gf",
+						"tv"
+					],
+					[
+						"bgremove",
+						"backgroundfire",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-default"
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Change Character",
+						"bf",
+						"scared-bf"
+					],
+					[
+						"Change Character",
+						"gf",
+						"tv-sing"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"bgremove",
+						"thatonepartinneuroses",
+						""
+					]
+				],
+				null,
+				"GF Sing"
+			],
+			[
+				290136.98630137,
+				[
+					[
+						"bgremove",
+						"backgroundfire2",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-default"
+					],
+					[
+						"Change Character",
+						"gf",
+						"tv"
+					]
+				]
+			],
+			[
+				406621.554711998,
+				[
+					[
+						"Change Character",
+						"gf",
+						"tv-sing"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "tv",
+		"bpm": 146,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "not-so-triple-trouble"
+	}
+}
