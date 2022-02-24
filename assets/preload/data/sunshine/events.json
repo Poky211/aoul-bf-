@@ -1,0 +1,64 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "mind",
+		"player1": "bf-default",
+		"player2": "soul",
+		"player3": null,
+		"events": [
+			[
+				84000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"soulsunshine"
+					],
+					[
+						"Change Character",
+						"bf",
+						"nonebf"
+					],
+					[
+						"Change Character",
+						"gf",
+						"altbg3"
+					],
+					[
+						"bgremove",
+						"overlay",
+						""
+					]
+				]
+			],
+			[
+				122857.142857143,
+				[
+					[
+						"Change Character",
+						"gf",
+						"tv"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-default"
+					],
+					[
+						"Change Character",
+						"dad",
+						"soul"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "tv",
+		"bpm": 105,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "sunshine"
+	}
+}
