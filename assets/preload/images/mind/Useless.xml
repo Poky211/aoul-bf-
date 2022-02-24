@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Useless.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Useless0000" x="0" y="0" width="1687" height="922"/>
+	<SubTexture name="Useless0001" x="0" y="0" width="1687" height="922"/>
+	<SubTexture name="Useless0002" x="1687" y="0" width="1687" height="922"/>
+	<SubTexture name="Useless0003" x="1687" y="0" width="1687" height="922"/>
+	<SubTexture name="Useless0004" x="0" y="922" width="1687" height="922"/>
+	<SubTexture name="Useless0005" x="0" y="922" width="1687" height="922"/>
+	<SubTexture name="Useless0006" x="1687" y="922" width="1687" height="922"/>
+	<SubTexture name="Useless0007" x="1687" y="922" width="1687" height="922"/>
+	<SubTexture name="Useless0008" x="0" y="1844" width="1687" height="922"/>
+	<SubTexture name="Useless0009" x="0" y="1844" width="1687" height="922"/>
+	<SubTexture name="Useless0010" x="1687" y="1844" width="1687" height="922"/>
+	<SubTexture name="Useless0011" x="1687" y="1844" width="1687" height="922"/>
+	<SubTexture name="Useless0012" x="0" y="2766" width="1687" height="922"/>
+	<SubTexture name="Useless0013" x="0" y="2766" width="1687" height="922"/>
+	<SubTexture name="Useless0014" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="Useless0015" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="Useless0016" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="Useless0017" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="Useless0018" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="Useless0019" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="Useless0020" x="0" y="2766" width="1687" height="922"/>
+	<SubTexture name="Useless0021" x="0" y="2766" width="1687" height="922"/>
+	<SubTexture name="Useless0022" x="1687" y="1844" width="1687" height="922"/>
+	<SubTexture name="Useless0023" x="1687" y="1844" width="1687" height="922"/>
+	<SubTexture name="Useless0024" x="0" y="1844" width="1687" height="922"/>
+	<SubTexture name="Useless0025" x="0" y="1844" width="1687" height="922"/>
+	<SubTexture name="Useless0026" x="1687" y="922" width="1687" height="922"/>
+	<SubTexture name="Useless0027" x="1687" y="922" width="1687" height="922"/>
+	<SubTexture name="Useless0028" x="0" y="922" width="1687" height="922"/>
+	<SubTexture name="Useless0029" x="0" y="922" width="1687" height="922"/>
+	<SubTexture name="Useless0030" x="1687" y="0" width="1687" height="922"/>
+	<SubTexture name="Useless0031" x="1687" y="0" width="1687" height="922"/>
+	<SubTexture name="Useless0032" x="0" y="0" width="1687" height="922"/>
+	<SubTexture name="Useless0033" x="0" y="0" width="1687" height="922"/>
+</TextureAtlas>

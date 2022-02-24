@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="You.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="You0000" x="0" y="0" width="1687" height="922"/>
+	<SubTexture name="You0001" x="0" y="0" width="1687" height="922"/>
+	<SubTexture name="You0002" x="1687" y="0" width="1687" height="922"/>
+	<SubTexture name="You0003" x="1687" y="0" width="1687" height="922"/>
+	<SubTexture name="You0004" x="0" y="922" width="1687" height="922"/>
+	<SubTexture name="You0005" x="0" y="922" width="1687" height="922"/>
+	<SubTexture name="You0006" x="1687" y="922" width="1687" height="922"/>
+	<SubTexture name="You0007" x="1687" y="922" width="1687" height="922"/>
+	<SubTexture name="You0008" x="0" y="1844" width="1687" height="922"/>
+	<SubTexture name="You0009" x="0" y="1844" width="1687" height="922"/>
+	<SubTexture name="You0010" x="1687" y="1844" width="1687" height="922"/>
+	<SubTexture name="You0011" x="1687" y="1844" width="1687" height="922"/>
+	<SubTexture name="You0012" x="0" y="2766" width="1687" height="922"/>
+	<SubTexture name="You0013" x="0" y="2766" width="1687" height="922"/>
+	<SubTexture name="You0014" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="You0015" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="You0016" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="You0017" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="You0018" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="You0019" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="You0020" x="0" y="2766" width="1687" height="922"/>
+	<SubTexture name="You0021" x="0" y="2766" width="1687" height="922"/>
+	<SubTexture name="You0022" x="1687" y="1844" width="1687" height="922"/>
+	<SubTexture name="You0023" x="1687" y="1844" width="1687" height="922"/>
+	<SubTexture name="You0024" x="0" y="1844" width="1687" height="922"/>
+	<SubTexture name="You0025" x="0" y="1844" width="1687" height="922"/>
+	<SubTexture name="You0026" x="1687" y="922" width="1687" height="922"/>
+	<SubTexture name="You0027" x="1687" y="922" width="1687" height="922"/>
+	<SubTexture name="You0028" x="0" y="922" width="1687" height="922"/>
+	<SubTexture name="You0029" x="0" y="922" width="1687" height="922"/>
+	<SubTexture name="You0030" x="1687" y="0" width="1687" height="922"/>
+	<SubTexture name="You0031" x="1687" y="0" width="1687" height="922"/>
+	<SubTexture name="You0032" x="0" y="0" width="1687" height="922"/>
+	<SubTexture name="You0033" x="0" y="0" width="1687" height="922"/>
+</TextureAtlas>

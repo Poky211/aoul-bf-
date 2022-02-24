@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TryThis.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TryThis0000" x="0" y="0" width="1687" height="922"/>
+	<SubTexture name="TryThis0001" x="0" y="0" width="1687" height="922"/>
+	<SubTexture name="TryThis0002" x="1687" y="0" width="1687" height="922"/>
+	<SubTexture name="TryThis0003" x="1687" y="0" width="1687" height="922"/>
+	<SubTexture name="TryThis0004" x="0" y="922" width="1687" height="922"/>
+	<SubTexture name="TryThis0005" x="0" y="922" width="1687" height="922"/>
+	<SubTexture name="TryThis0006" x="1687" y="922" width="1687" height="922"/>
+	<SubTexture name="TryThis0007" x="1687" y="922" width="1687" height="922"/>
+	<SubTexture name="TryThis0008" x="0" y="1844" width="1687" height="922"/>
+	<SubTexture name="TryThis0009" x="0" y="1844" width="1687" height="922"/>
+	<SubTexture name="TryThis0010" x="1687" y="1844" width="1687" height="922"/>
+	<SubTexture name="TryThis0011" x="1687" y="1844" width="1687" height="922"/>
+	<SubTexture name="TryThis0012" x="0" y="2766" width="1687" height="922"/>
+	<SubTexture name="TryThis0013" x="0" y="2766" width="1687" height="922"/>
+	<SubTexture name="TryThis0014" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="TryThis0015" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="TryThis0016" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="TryThis0017" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="TryThis0018" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="TryThis0019" x="1687" y="2766" width="1687" height="922"/>
+	<SubTexture name="TryThis0020" x="0" y="2766" width="1687" height="922"/>
+	<SubTexture name="TryThis0021" x="0" y="2766" width="1687" height="922"/>
+	<SubTexture name="TryThis0022" x="1687" y="1844" width="1687" height="922"/>
+	<SubTexture name="TryThis0023" x="1687" y="1844" width="1687" height="922"/>
+	<SubTexture name="TryThis0024" x="0" y="1844" width="1687" height="922"/>
+	<SubTexture name="TryThis0025" x="0" y="1844" width="1687" height="922"/>
+	<SubTexture name="TryThis0026" x="1687" y="922" width="1687" height="922"/>
+	<SubTexture name="TryThis0027" x="1687" y="922" width="1687" height="922"/>
+	<SubTexture name="TryThis0028" x="0" y="922" width="1687" height="922"/>
+	<SubTexture name="TryThis0029" x="0" y="922" width="1687" height="922"/>
+	<SubTexture name="TryThis0030" x="1687" y="0" width="1687" height="922"/>
+	<SubTexture name="TryThis0031" x="1687" y="0" width="1687" height="922"/>
+	<SubTexture name="TryThis0032" x="0" y="0" width="1687" height="922"/>
+	<SubTexture name="TryThis0033" x="0" y="0" width="1687" height="922"/>
+</TextureAtlas>
